@@ -154,21 +154,4 @@ __pycache__/
 
 ---
 
-## 📦 What to Upload to GitHub
-
-### Upload:
-- `app/` (all Python files)
-- `requirements.txt`
-- `.gitignore`
-- `README.md`
-- `create_tables.py` (if outside app)
-
-### Do NOT upload:
-- `venv/`
-- `.env`
-- `reading.db`
-- `__pycache__/`
-- `.DS_Store`
-
----
 

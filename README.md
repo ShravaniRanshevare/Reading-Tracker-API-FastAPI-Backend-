@@ -142,16 +142,5 @@ python3 app/create_tables.py
 
 ---
 
-## 🧹 .gitignore (recommended)
-
-```
-venv/
-__pycache__/
-*.db
-.env
-.DS_Store
-```
-
----
 
 
